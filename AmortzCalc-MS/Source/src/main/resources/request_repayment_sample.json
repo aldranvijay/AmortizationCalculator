@@ -1,0 +1,18 @@
+{
+	"loan_amount": 1000000,
+	"disbursement_amount": 1000000,
+	"sanction_amount": 1000000,
+	"emi_draw_on": "DISB-AMOUNT",
+	"tenor": 24,
+	"rate_annual_percent": 10,
+	"repsch_type": "Straight Line",
+	"intrate_basis": "Actual",
+	"days_per_month": "Actual",
+	"days_per_year": "360",
+	"interest_type": "FIXED-REDUCING",
+	"emi_due_date": "Actual",
+	"principal_grace": 0,
+	"interest_grace": 0,
+	"is_capitalize": false,
+	"is_compounding": false 
+}
